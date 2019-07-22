@@ -6,21 +6,29 @@ This repository is a compilation of AlgoData questions.
 
 # Structure
 
--Topic
+```
+project
+│   README.md
+│      
+│
+└───Topics
+│   │   
+│   │   
+│   │
+│   └───Trees
+│       │   folder_by_question_name
+│       │          └───Src
+|       |               └───solution.cpp/py
+|       |                   solution_test_cases
+|       |           problem_description_readme.
+│       │   ...
+│   └───Dynamic_Programming
+        │   
+│       │   
+│       │   ...
 
---Tree
-
----Folder_by_question_name
-----Problem_description_readme.
-----Src
------solution_question_name
------solution_test_cases.
-
---List/Array
---DynamicProgramming
---etc
-
--READEME.md
+|   ........
+```
 
 # Solution Languages
 
