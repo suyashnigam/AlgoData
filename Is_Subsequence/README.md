@@ -16,3 +16,5 @@ Return false.
 
 Follow up:
 If there are lots of incoming S, say S1, S2, ... , Sk where k >= 1B, and you want to check one by one to see if T has its subsequence. In this scenario, how would you change your code?
+
+* Run solution in unit test *
